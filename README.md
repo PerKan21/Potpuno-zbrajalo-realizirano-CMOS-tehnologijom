@@ -96,7 +96,9 @@ Ulazi A, B i C_IN zadani su kao pravokutni impulsi različitih perioda, pa simul
 .
 ├── README.md
 ├── Dokumentacija/
-│   └── Dokumentacija.pdf            projektna dokumentacija
+│   ├── Dokumentacija.tex            LaTeX izvor dokumentacije
+│   ├── Dokumentacija.pdf            projektna dokumentacija
+│   └── *.png                        slike korištene u dokumentaciji
 ├── Topoloski nacrt/
 │   └── FULL_ADDER_V4_FINAL.MSK      konačni topološki nacrt (Microwind)
 └── Slike/                           slike korištene u README datoteci
